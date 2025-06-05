@@ -22,17 +22,24 @@ This script is designed to perform a thorough cleanup of a Debian/Ubuntu-based L
 
 ## Usage
 
-1. **Save the Script:**
-   Save the provided script to a file, e.g., `system-cleanup.sh`.
-
-2. **Make it Executable:**
+1. **Clone the Repository:**
    ```bash
-   chmod +x system-cleanup.sh
+   git clone https://github.com/codecventer/clean-my-ubuntu.git
    ```
 
-3. **Run the Script:**
+2. **Navigate to the Script Directory:**
    ```bash
-   ./system-cleanup.sh
+   cd clean-my-ubuntu
+   ```
+
+3. **Make the Script Executable:**
+   ```bash
+   chmod +x clean.sh
+   ```
+
+4. **Run the Script:**
+   ```bash
+   ./clean.sh
    ```
    You may need to enter your password for `sudo` commands.
 
