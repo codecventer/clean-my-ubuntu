@@ -159,3 +159,7 @@ Prints a final message indicating the cleanup is complete.
 This script is provided as-is, without warranty or guarantee of suitability for any particular purpose. Use at your own risk.
 
 ---
+
+## Authors
+
+- [@codecventer](https://www.github.com/codecventer)
